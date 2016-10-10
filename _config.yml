@@ -19,8 +19,8 @@ title: Martin Polacek
 email: martinpolacek@stonybrook.edu
 description: >
   Martin Polacek personal webpage and blog.
-baseurl: ""
-url: "http://localhost:4000"
+baseurl: "/parsley"
+url: ""
 twitter_username: martin_polacek
 github_username:  KvitnucaZahradka
 # Build Settings
