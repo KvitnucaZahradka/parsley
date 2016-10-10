@@ -6,4 +6,4 @@ permalink: /Physics/
 
 some physics stuff
 
-<img src="/pictures/mostisko.jpg" alt="Martin Polacek" width="255px" >
+<img src="/pictures/mostisko.JPG" alt="SF Golden Gate" width="255px" >

@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-{% img class /pictures/ja.jpg 250 250 'title text' 'alt text' %}
+<img src="/pictures/ja.JPG" alt="Martin Polacek" width="255px" >
 
 My name is Martin Polacek. I like math, physics and programming. Currently
 I am Ph.D. student at the [YITP][yitp] institute for theoretical
