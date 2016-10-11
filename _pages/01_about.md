@@ -33,4 +33,4 @@ You can read more about my scientific and professional interests in my [Resume][
 [yitp]: http://insti.physics.sunysb.edu/itp/www/ "YITP"
 [sb]: http://www.stonybrook.edu "Stony Brook University"
 [sbrook]: https://en.wikipedia.org/wiki/Stony_Brook,_New_York "Stony Brook"
-[resume]: /pdf/Martin_Polacek_Resume.pdf "Msartin Polacek Resume"
+[resume]: https://kvitnucazahradka.github.io/parsley/pdf/Martin_Polacek_Resume.pdf "Martin Polacek Resume"
