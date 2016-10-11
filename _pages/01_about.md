@@ -3,11 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-<<<<<<< HEAD
-<img src="/pictures/ja.JPG" alt="Martin Polacek" width="255px" >
-=======
+
 <img src="https://kvitnucazahradka.github.io/parsley/pictures/ja.JPG" alt="Martin Polacek" width="255px" >
->>>>>>> 86208b8c010af227ebc32dbed760060e222435bb
+
 
 My name is Martin Polacek. I like math, physics and programming. Currently
 I am Ph.D. student at the [YITP][yitp] institute for theoretical
