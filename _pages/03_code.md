@@ -18,6 +18,8 @@ Various CS projects/algorithms:
 
 1. [Knuth Morris Pratt algorithm][ggl]
 2. [Completition times][ku]
+3. [Prim's algorithm with Heaps][prim]
 
 [ggl]: https://github.com/KvitnucaZahradka/knuth_morris_pratt/blob/master/KnuthMorrisPratt.java "Knuth Morris Pratt algorithm"
-[ku]: https://github.com/KvitnucaZahradka/completition_times/blob/master/Completition_times.java "helllo"
+[ku]: https://github.com/KvitnucaZahradka/completition_times/blob/master/Completition_times.java "Completition times"
+[prim]: https://github.com/KvitnucaZahradka/completition_times/blob/master/PrimsAlgorithmHeapVersion.java "Prim's algorithm"
