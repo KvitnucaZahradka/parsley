@@ -16,7 +16,8 @@ My main CS interests are:
 
 Various CS projects/algorithms:
 
-1. [My implementation of Knuth Morris Pratt algorithm][ggl]
-2.
+1. [Knuth Morris Pratt algorithm][ggl]
+2.[nnn][ku]
 
 [ggl]: https://github.com/KvitnucaZahradka/knuth_morris_pratt/blob/master/KnuthMorrisPratt.java "Knuth Morris Pratt algorithm"
+[ku]: "helllo"
