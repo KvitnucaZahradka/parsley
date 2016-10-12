@@ -14,9 +14,9 @@ My main CS interests are:
 
 ### Projects
 
-I have been involved in various CS projects:
+Various CS projects/algorithms:
 
-1. [hhh][ggl]
-2. 
+1. [My implementation of Knuth Morris Pratt algorithm][ggl]
+2.
 
-[ggl]: /welcome/ "welcome_blog"
+[ggl]: https://github.com/KvitnucaZahradka/knuth_morris_pratt/blob/master/KnuthMorrisPratt.java "Knuth Morris Pratt algorithm"
