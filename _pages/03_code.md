@@ -22,4 +22,4 @@ Various CS projects/algorithms:
 
 [ggl]: https://github.com/KvitnucaZahradka/knuth_morris_pratt/blob/master/KnuthMorrisPratt.java "Knuth Morris Pratt algorithm"
 [ku]: https://github.com/KvitnucaZahradka/completition_times/blob/master/Completition_times.java "Completition times"
-[prim]: https://github.com/KvitnucaZahradka/completition_times/blob/master/PrimsAlgorithmHeapVersion.java "Prim's algorithm"
+[prim]: https://github.com/KvitnucaZahradka/prims_algorithm_heaps/blob/master/PrimsAlgorithmHeapVersion.java "Prim's algorithm"
