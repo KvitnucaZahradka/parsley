@@ -4,32 +4,43 @@
     <title>Martin Polacek</title>
     <description>Martin Polacek personal webpage and blog.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 17:23:51 -0400</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 17:23:51 -0400</lastBuildDate>
+    <link>/parsley/</link>
+    <atom:link href="/parsley/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Nov 2016 11:05:08 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2016 11:05:08 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Welcome to Martin's web-blog!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Lazy Ions Application</title>
+        <description>&lt;p&gt;This is the blog-post about the application called &lt;code class=&quot;highlighter-rouge&quot;&gt;lazy ions&lt;/code&gt;. The 
+temporary web-page could be found &lt;a href=&quot;https://glacial-basin-33701.herokuapp.com/about&quot;&gt;here&lt;/a&gt;. The aim of the &lt;code class=&quot;highlighter-rouge&quot;&gt;lazy ions&lt;/code&gt; is 
+to analyse the future trendsetters for the new papers released on the 
+&lt;a href=&quot;https://arxiv.org&quot;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;I am using the Ada - Boosted classifier trained on the set of trendsetters
+vs. non-trendsetters papers and metadata downloaded from &lt;a href=&quot;https://arxiv.org&quot;&gt;arXiv&lt;/a&gt;. The trendsetters 
+are defined as the most cited authors in the period of last five years in 
+certain area of research. The non-trendsetters are the authors that are 
+not trendsetters but are still producing papers in given field.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;My application &lt;code class=&quot;highlighter-rouge&quot;&gt;lazy ions&lt;/code&gt; so far works only for &lt;code class=&quot;highlighter-rouge&quot;&gt;hep-th&lt;/code&gt; field on arXiv.
+I the future other areas will be included as well.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;hep-th&lt;/code&gt; papers predicted to be trendsetters by my application:&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/hep-th/9108012v1&quot;&gt;paper 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/hep-th/9108012v1&quot;&gt;paper 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/hep-th/9108003v1&quot;&gt;paper 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/hep-th/9108013v1&quot;&gt;paper 4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/hep-th/9109006v2&quot;&gt;paper 5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/hep-th/9109027v1&quot;&gt;paper 6&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 </description>
-        <pubDate>Wed, 28 Sep 2016 15:17:44 -0400</pubDate>
-        <link>http://localhost:4000/welcome/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome/</guid>
+        <pubDate>Mon, 14 Nov 2016 10:04:44 -0500</pubDate>
+        <link>/parsley/welcome/</link>
+        <guid isPermaLink="true">/parsley/welcome/</guid>
         
         
         <category>jekyll</category>
