@@ -17,7 +17,8 @@ certain area of research. The non-trendsetters are the authors that are
 not trendsetters but are still producing papers in given field.
 
 My application `lazy ions` so far works only for `hep-th` field on arXiv.
-I the future other areas will be included as well.
+I the future other areas will be included as well. You can check `lazy ions` 
+code on [github].
 
 The `hep-th` papers predicted to be trendsetters by my application:
 
@@ -30,6 +31,7 @@ The `hep-th` papers predicted to be trendsetters by my application:
 
 [here]: https://glacial-basin-33701.herokuapp.com/about
 [arXiv]: https://arxiv.org
+[github]: https://github.com/KvitnucaZahradka/LAZY_IONS/blob/master/Document.py
 
 [paper 1]: https://arxiv.org/abs/hep-th/9108012v1
 [paper 2]: https://arxiv.org/abs/hep-th/9108012v1

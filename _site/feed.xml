@@ -6,8 +6,8 @@
 </description>
     <link>/parsley/</link>
     <atom:link href="/parsley/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Nov 2016 11:17:36 -0500</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2016 11:17:36 -0500</lastBuildDate>
+    <pubDate>Mon, 14 Nov 2016 11:42:24 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2016 11:42:24 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -24,7 +24,8 @@ certain area of research. The non-trendsetters are the authors that are
 not trendsetters but are still producing papers in given field.&lt;/p&gt;
 
 &lt;p&gt;My application &lt;code class=&quot;highlighter-rouge&quot;&gt;lazy ions&lt;/code&gt; so far works only for &lt;code class=&quot;highlighter-rouge&quot;&gt;hep-th&lt;/code&gt; field on arXiv.
-I the future other areas will be included as well.&lt;/p&gt;
+I the future other areas will be included as well. You can check &lt;code class=&quot;highlighter-rouge&quot;&gt;lazy ions&lt;/code&gt; 
+code on &lt;a href=&quot;https://github.com/KvitnucaZahradka/LAZY_IONS/blob/master/Document.py&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;hep-th&lt;/code&gt; papers predicted to be trendsetters by my application:&lt;/p&gt;
 
