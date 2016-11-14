@@ -6,8 +6,8 @@
 </description>
     <link>/parsley/</link>
     <atom:link href="/parsley/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Nov 2016 11:05:08 -0500</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2016 11:05:08 -0500</lastBuildDate>
+    <pubDate>Mon, 14 Nov 2016 11:17:36 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2016 11:17:36 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -17,8 +17,8 @@ temporary web-page could be found &lt;a href=&quot;https://glacial-basin-33701.h
 to analyse the future trendsetters for the new papers released on the 
 &lt;a href=&quot;https://arxiv.org&quot;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I am using the Ada - Boosted classifier trained on the set of trendsetters
-vs. non-trendsetters papers and metadata downloaded from &lt;a href=&quot;https://arxiv.org&quot;&gt;arXiv&lt;/a&gt;. The trendsetters 
+&lt;p&gt;I am using the Ada - Boosted classifier trained on the set of trendsetter
+vs. non-trendsetter papers and metadata downloaded from &lt;a href=&quot;https://arxiv.org&quot;&gt;arXiv&lt;/a&gt;. The trendsetters 
 are defined as the most cited authors in the period of last five years in 
 certain area of research. The non-trendsetters are the authors that are 
 not trendsetters but are still producing papers in given field.&lt;/p&gt;

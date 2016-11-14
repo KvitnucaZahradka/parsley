@@ -10,8 +10,8 @@ temporary web-page could be found [here]. The aim of the `lazy ions` is
 to analyse the future trendsetters for the new papers released on the 
 [arXiv]. 
 
-I am using the Ada - Boosted classifier trained on the set of trendsetters
-vs. non-trendsetters papers and metadata downloaded from [arXiv]. The trendsetters 
+I am using the Ada - Boosted classifier trained on the set of trendsetter
+vs. non-trendsetter papers and metadata downloaded from [arXiv]. The trendsetters 
 are defined as the most cited authors in the period of last five years in 
 certain area of research. The non-trendsetters are the authors that are 
 not trendsetters but are still producing papers in given field.
