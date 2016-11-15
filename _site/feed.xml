@@ -6,8 +6,8 @@
 </description>
     <link>/parsley/</link>
     <atom:link href="/parsley/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Nov 2016 13:01:26 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Nov 2016 13:01:26 -0500</lastBuildDate>
+    <pubDate>Tue, 15 Nov 2016 13:02:23 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2016 13:02:23 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -118,7 +118,7 @@ the best &lt;em&gt;out of box&lt;/em&gt; classifier. The &lt;a href=&quot;https:
 
 &lt;p&gt;Moreover I used this algorithm before in the work for the medical startup REVON.&lt;/p&gt;
 
-&lt;p&gt;I trained the [scikit-learn] version of the Ada_Boost classifier with a grid search.
+&lt;p&gt;I trained the &lt;a href=&quot;http://scikit-learn.org/stable/&quot;&gt;scikit-learn&lt;/a&gt; version of the Ada_Boost classifier with a grid search.
 I split my data into three groups &lt;strong&gt;training&lt;/strong&gt; (70 per-cent) &lt;strong&gt;testing&lt;/strong&gt; (20 per-cent)
 &lt;strong&gt;validation&lt;/strong&gt; (10 per-cent).&lt;/p&gt;
 
@@ -140,8 +140,6 @@ from arXiv.&lt;/p&gt;
   &lt;li&gt;Personalised version&lt;/li&gt;
   &lt;li&gt;Use the algorithm as trendsetting-ness estimator for authors&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;[scikit-learn]:&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 14 Nov 2016 10:04:44 -0500</pubDate>

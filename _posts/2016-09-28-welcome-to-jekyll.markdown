@@ -133,7 +133,7 @@ For the future work I propose the following:
 [Python module]: https://github.com/KvitnucaZahradka/LAZY_IONS/blob/master/Document.py
 [cosine similarities]: https://en.wikipedia.org/wiki/Cosine_similarity
 [creators]: https://en.wikipedia.org/wiki/AdaBoost
-[scikit-learn]:  
+[scikit-learn]: http://scikit-learn.org/stable/ 
 
 [paper 1]: https://arxiv.org/abs/hep-th/9108012v1
 [paper 2]: https://arxiv.org/abs/hep-th/9108012v1
