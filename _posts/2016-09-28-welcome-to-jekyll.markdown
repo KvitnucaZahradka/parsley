@@ -93,8 +93,8 @@ of papers:
 10. pure text density of text
 11. pure text density of abstract
 
-Note, by pure text density I mean the density of cleaned up text 
-(text consisting only of factual information nouns). 
+Note, by pure text density ((num. of words in pure text / (num. of words in the orig. text))) I mean 
+the density of cleaned up text (text consisting only of factual information nouns). 
 
 
 ## Model evaluation and prediction

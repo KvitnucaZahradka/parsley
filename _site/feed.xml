@@ -6,8 +6,8 @@
 </description>
     <link>/parsley/</link>
     <atom:link href="/parsley/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Nov 2016 13:08:26 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Nov 2016 13:08:26 -0500</lastBuildDate>
+    <pubDate>Tue, 15 Nov 2016 13:11:00 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2016 13:11:00 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -107,8 +107,8 @@ of papers:&lt;/p&gt;
   &lt;li&gt;pure text density of abstract&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Note, by pure text density I mean the density of cleaned up text 
-(text consisting only of factual information nouns).&lt;/p&gt;
+&lt;p&gt;Note, by pure text density ((num. of words in pure text / (num. of words in the orig. text))) I mean 
+the density of cleaned up text (text consisting only of factual information nouns).&lt;/p&gt;
 
 &lt;h2 id=&quot;model-evaluation-and-prediction&quot;&gt;Model evaluation and prediction&lt;/h2&gt;
 &lt;p&gt;The aim of this project was to train the classifier. I picked the Ada-Boosted 

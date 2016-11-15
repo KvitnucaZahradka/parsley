@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bf6fe31-38df-45cc-81b3-bc13a383b59d" name="Default" comment="markdown">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-09-28-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_posts/2016-09-28-welcome-to-jekyll.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/welcome/index.html" afterPath="$PROJECT_DIR$/_site/welcome/index.html" />
     </list>
     <ignored path="parsley.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,8 +78,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-09-28-welcome-to-jekyll.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="330">
-                <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+              <first_editor relative-caret-position="345">
+                <caret line="95" column="85" selection-start-line="95" selection-start-column="85" selection-end-line="95" selection-end-column="85" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -424,12 +427,12 @@
       <workItem from="1478393884343" duration="346000" />
       <workItem from="1478794351807" duration="490000" />
       <workItem from="1479112384131" duration="689000" />
-      <workItem from="1479137830762" duration="9097000" />
+      <workItem from="1479137830762" duration="9249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11947000" />
+    <option name="totallyTimeSpent" value="12099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="88" width="1260" height="637" extended-state="0" />
@@ -657,8 +660,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-09-28-welcome-to-jekyll.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="330">
-            <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+          <first_editor relative-caret-position="345">
+            <caret line="95" column="85" selection-start-line="95" selection-start-column="85" selection-end-line="95" selection-end-column="85" />
             <folding />
           </first_editor>
           <second_editor />
