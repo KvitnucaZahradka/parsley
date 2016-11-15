@@ -48,6 +48,8 @@
 			<h2>Lazy Ions Application</h2>
 <time>Nov 14, 2016</time>
 
+<h1 id="application">Application</h1>
+
 <p>This is the blog-post about the application called <code class="highlighter-rouge">lazy ions</code>. The 
 temporary web-page could be found <a href="https://glacial-basin-33701.herokuapp.com/about">here</a>. The aim of the <code class="highlighter-rouge">lazy ions</code> is 
 to analyse the future trendsetters for the new papers released on the 
@@ -73,6 +75,38 @@ code on <a href="https://github.com/KvitnucaZahradka/LAZY_IONS/blob/master/Docum
   <li><a href="https://arxiv.org/abs/hep-th/9109006v2">paper 5</a></li>
   <li><a href="https://arxiv.org/abs/hep-th/9109027v1">paper 6</a></li>
 </ol>
+
+<h1 id="application-details">Application details</h1>
+
+<p>The whole project is developed in PyCharm in conjunction with live script
+run in Jupyther. The project consists of four main steps:</p>
+
+<ol>
+  <li>Getting raw data from arXiv</li>
+  <li>Exploratory analysis</li>
+  <li>Feature engineering, feature selection and Model building</li>
+  <li>Model evaluation and prediction</li>
+</ol>
+
+<p>I addressed the points <code class="highlighter-rouge">1.</code> to <code class="highlighter-rouge">4.</code> by creating the Python module. The module
+consists of five classes:</p>
+
+<ol>
+  <li>class <strong>Data</strong></li>
+  <li>class <strong>GetLatestData</strong></li>
+  <li>class <strong>Document</strong></li>
+  <li>class <strong>Learn</strong></li>
+  <li>class <strong>Predict</strong></li>
+</ol>
+
+<p>The following diagram describes the interactions between classes and between classes
+and environment.</p>
+
+<p><img src="https://kvitnucazahradka.github.io/parsley/pictures/lazy_ions_diagram.JPG" alt="SF GG" width="255px" /></p>
+
+<h2 id="exploratory-analysis">Exploratory analysis</h2>
+<p>In my exploration I looked at various preliminary measures of trendsetting
+and non trendsetting papers. I found that</p>
 
 
 

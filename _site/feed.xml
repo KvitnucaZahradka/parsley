@@ -6,13 +6,15 @@
 </description>
     <link>/parsley/</link>
     <atom:link href="/parsley/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Nov 2016 11:42:24 -0500</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2016 11:42:24 -0500</lastBuildDate>
+    <pubDate>Tue, 15 Nov 2016 12:07:41 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2016 12:07:41 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Lazy Ions Application</title>
-        <description>&lt;p&gt;This is the blog-post about the application called &lt;code class=&quot;highlighter-rouge&quot;&gt;lazy ions&lt;/code&gt;. The 
+        <description>&lt;h1 id=&quot;application&quot;&gt;Application&lt;/h1&gt;
+
+&lt;p&gt;This is the blog-post about the application called &lt;code class=&quot;highlighter-rouge&quot;&gt;lazy ions&lt;/code&gt;. The 
 temporary web-page could be found &lt;a href=&quot;https://glacial-basin-33701.herokuapp.com/about&quot;&gt;here&lt;/a&gt;. The aim of the &lt;code class=&quot;highlighter-rouge&quot;&gt;lazy ions&lt;/code&gt; is 
 to analyse the future trendsetters for the new papers released on the 
 &lt;a href=&quot;https://arxiv.org&quot;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
@@ -37,6 +39,38 @@ code on &lt;a href=&quot;https://github.com/KvitnucaZahradka/LAZY_IONS/blob/mast
   &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/hep-th/9109006v2&quot;&gt;paper 5&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/hep-th/9109027v1&quot;&gt;paper 6&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h1 id=&quot;application-details&quot;&gt;Application details&lt;/h1&gt;
+
+&lt;p&gt;The whole project is developed in PyCharm in conjunction with live script
+run in Jupyther. The project consists of four main steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Getting raw data from arXiv&lt;/li&gt;
+  &lt;li&gt;Exploratory analysis&lt;/li&gt;
+  &lt;li&gt;Feature engineering, feature selection and Model building&lt;/li&gt;
+  &lt;li&gt;Model evaluation and prediction&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I addressed the points &lt;code class=&quot;highlighter-rouge&quot;&gt;1.&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;4.&lt;/code&gt; by creating the Python module. The module
+consists of five classes:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;class &lt;strong&gt;Data&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;class &lt;strong&gt;GetLatestData&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;class &lt;strong&gt;Document&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;class &lt;strong&gt;Learn&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;class &lt;strong&gt;Predict&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The following diagram describes the interactions between classes and between classes
+and environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://kvitnucazahradka.github.io/parsley/pictures/lazy_ions_diagram.JPG&quot; alt=&quot;SF GG&quot; width=&quot;255px&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;exploratory-analysis&quot;&gt;Exploratory analysis&lt;/h2&gt;
+&lt;p&gt;In my exploration I looked at various preliminary measures of trendsetting
+and non trendsetting papers. I found that&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 14 Nov 2016 10:04:44 -0500</pubDate>
