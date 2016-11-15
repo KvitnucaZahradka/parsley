@@ -88,7 +88,7 @@ run in Jupyther. The project consists of four main steps:</p>
   <li>Model evaluation and prediction</li>
 </ol>
 
-<p>I addressed the points <code class="highlighter-rouge">1.</code> to <code class="highlighter-rouge">4.</code> by creating the Python module. The module
+<p>I addressed the points <strong><code class="highlighter-rouge">1.</code></strong> to <strong><code class="highlighter-rouge">4.</code></strong> by creating the <a href="https://github.com/KvitnucaZahradka/LAZY_IONS/blob/master/Document.py">Python module</a>. The module
 consists of five classes:</p>
 
 <ol>
@@ -106,7 +106,78 @@ and environment.</p>
 
 <h2 id="exploratory-analysis">Exploratory analysis</h2>
 <p>In my exploration I looked at various preliminary measures of trendsetting
-and non trendsetting papers. I found that</p>
+and non trendsetting papers. One interesting observation was that the 
+<em>Dale-Chall</em> readability of “trendsetting” papers is quite different than 
+ the readability of “non-trendsetting” papers. I got the following distributions
+ of readabilities:</p>
+
+<p>For trending papers:
+<img src="https://kvitnucazahradka.github.io/parsley/pictures/trendDaleChall.JPG" alt="SF GG" width="555px" /></p>
+
+<p>For non-trending papers:
+<img src="https://kvitnucazahradka.github.io/parsley/pictures/trendDaleChall_notTrending.JPG" alt="SF GG" width="555px" /></p>
+
+<h2 id="feature-engineering-feature-selection-and-model-building">Feature engineering, feature selection and Model building</h2>
+
+<p>Having downloaded the meta-data and actual pdf files from arXiv for trendsetters
+and non-trendsetters. I split the trendsetting papers to the papers belonging to 
+the top trendsetting authors (the upper five per-cent). I call that set <em>a golden standard</em>.
+I have done that to have base to which I can calculate the <strong><a href="https://en.wikipedia.org/wiki/Cosine_similarity">cosine similarities</a></strong> of the 
+rest of the papers to teh <em>golden standard</em>. By this I engineered the global feature for each article. Moreover for each 
+paper I calculated the local features (meaning related to the paper itself regardless the corpus). 
+The following summarises all features calculated for each paper. By selecting following
+features I wanted to catch the formal structure together with factual structure
+of papers:</p>
+
+<ol>
+  <li><a href="https://en.wikipedia.org/wiki/Cosine_similarity">cosine similarities</a> to the <em>golden standard</em></li>
+  <li>equal sign densities of text</li>
+  <li>equal sign densities of abstract</li>
+  <li>Dale-Chall readabilities of text</li>
+  <li>Dale-Chall readabilities of abstract</li>
+  <li>number of lines density of text</li>
+  <li>number of lines density of abstract</li>
+  <li>length of the abstract</li>
+  <li>length of the text</li>
+  <li>pure text density of abstract</li>
+  <li>pure text density of text</li>
+</ol>
+
+<p>Note, by pure text density I mean the density of cleaned up text 
+(text consisting only of factual information nouns).</p>
+
+<h2 id="model-evaluation-and-prediction">Model evaluation and prediction</h2>
+<p>The aim of this project was to train the classifier. I picked the Ada-Boosted 
+classifier. The reason was that I still had not enormously huge data set. 
+So, in this project the scalability was not an issue. The Ada-Boost is considered
+the best <em>out of box</em> classifier. The <a href="https://en.wikipedia.org/wiki/AdaBoost">creators</a> got  <strong>Gödel Prize</strong> for this algorithm.</p>
+
+<p>Moreover I used this algorithm before in the work for the medical startup REVON.</p>
+
+<p>I trained the [scikit-learn] version of the Ada_Boost classifier with a grid search.
+I split my data into three groups <strong>training</strong> (70 per-cent) <strong>testing</strong> (20 per-cent)
+<strong>validation</strong> (10 per-cent).</p>
+
+<p>After training I got the classifier with accuracy on validation set to be around 67 per-cent. 
+By that classifier I predicted the papers whose links you can find at the 
+top of the website. The prediction has been made on the most recent <code class="highlighter-rouge">hep-th</code> papers 
+from arXiv.</p>
+
+<h2 id="future-work-proposal">Future work proposal</h2>
+
+<p>For the future work I propose the following:</p>
+
+<ol>
+  <li>Get more data with precise number of citations for each paper</li>
+  <li>More model space exploration</li>
+  <li>Extend the algorithm for different (other than <code class="highlighter-rouge">hep-th</code>) arXiv sections</li>
+  <li>Extend the algorithm for other media (other than arXiv)</li>
+  <li>Introduce the online learning, with proper implementation of exploration vs. exploitation</li>
+  <li>Personalised version</li>
+  <li>Use the algorithm as trendsetting-ness estimator for authors</li>
+</ol>
+
+<p>[scikit-learn]:</p>
 
 
 
