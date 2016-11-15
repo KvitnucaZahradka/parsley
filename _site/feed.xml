@@ -6,8 +6,8 @@
 </description>
     <link>/parsley/</link>
     <atom:link href="/parsley/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Nov 2016 12:07:41 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Nov 2016 12:07:41 -0500</lastBuildDate>
+    <pubDate>Tue, 15 Nov 2016 12:10:28 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2016 12:10:28 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -66,7 +66,7 @@ consists of five classes:&lt;/p&gt;
 &lt;p&gt;The following diagram describes the interactions between classes and between classes
 and environment.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://kvitnucazahradka.github.io/parsley/pictures/lazy_ions_diagram.JPG&quot; alt=&quot;SF GG&quot; width=&quot;255px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://kvitnucazahradka.github.io/parsley/pictures/lazy_ions_diagram.JPG&quot; alt=&quot;SF GG&quot; width=&quot;555px&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;exploratory-analysis&quot;&gt;Exploratory analysis&lt;/h2&gt;
 &lt;p&gt;In my exploration I looked at various preliminary measures of trendsetting

@@ -53,7 +53,7 @@ consists of five classes:
 The following diagram describes the interactions between classes and between classes
 and environment.
 
-<img src="https://kvitnucazahradka.github.io/parsley/pictures/lazy_ions_diagram.JPG" alt="SF GG" width="255px" >
+<img src="https://kvitnucazahradka.github.io/parsley/pictures/lazy_ions_diagram.JPG" alt="SF GG" width="555px" >
 
 
 ## Exploratory analysis
