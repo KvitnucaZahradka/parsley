@@ -73,15 +73,15 @@ For non-trending papers:
 
 Having downloaded the meta-data and actual pdf files from arXiv for trendsetters
 and non-trendsetters. I split the trendsetting papers to the papers belonging to 
-the top trendsetting authors (the upper five per-cent). I call that set *a golden standard*.
+the top trendsetting authors (the upper five per-cent). I call that set **a golden standard**.
 I have done that to have base to which I can calculate the **[cosine similarities]** of the 
-rest of the papers to teh *golden standard*. By this I engineered the global feature for each article. Moreover for each 
+rest of the papers to teh **golden standard**. By this I engineered the global feature for each article. Moreover for each 
 paper I calculated the local features (meaning related to the paper itself regardless the corpus). 
 The following summarises all features calculated for each paper. By selecting following
 features I wanted to catch the formal structure together with factual structure
 of papers:
 
-1. [cosine similarities] to the *golden standard*
+1. [cosine similarities] to the **golden standard**
 2. equal sign densities of text
 3. equal sign densities of abstract
 4. Dale-Chall readabilities of text
@@ -101,7 +101,7 @@ Note, by pure text density I mean the density of cleaned up text
 The aim of this project was to train the classifier. I picked the Ada-Boosted 
 classifier. The reason was that I still had not enormously huge data set. 
 So, in this project the scalability was not an issue. The Ada-Boost is considered
-the best *out of box* classifier. The [creators] got  **Gödel Prize** for this algorithm.
+the best **out of box** classifier. The [creators] got  **Gödel Prize** for this algorithm.
 
 Moreover I used this algorithm before in the work for the medical startup REVON.
 

@@ -6,8 +6,8 @@
 </description>
     <link>/parsley/</link>
     <atom:link href="/parsley/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Nov 2016 13:02:23 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Nov 2016 13:02:23 -0500</lastBuildDate>
+    <pubDate>Tue, 15 Nov 2016 13:06:54 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2016 13:06:54 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -85,16 +85,16 @@ and non trendsetting papers. One interesting observation was that the
 
 &lt;p&gt;Having downloaded the meta-data and actual pdf files from arXiv for trendsetters
 and non-trendsetters. I split the trendsetting papers to the papers belonging to 
-the top trendsetting authors (the upper five per-cent). I call that set &lt;em&gt;a golden standard&lt;/em&gt;.
+the top trendsetting authors (the upper five per-cent). I call that set &lt;strong&gt;a golden standard&lt;/strong&gt;.
 I have done that to have base to which I can calculate the &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Cosine_similarity&quot;&gt;cosine similarities&lt;/a&gt;&lt;/strong&gt; of the 
-rest of the papers to teh &lt;em&gt;golden standard&lt;/em&gt;. By this I engineered the global feature for each article. Moreover for each 
+rest of the papers to teh &lt;strong&gt;golden standard&lt;/strong&gt;. By this I engineered the global feature for each article. Moreover for each 
 paper I calculated the local features (meaning related to the paper itself regardless the corpus). 
 The following summarises all features calculated for each paper. By selecting following
 features I wanted to catch the formal structure together with factual structure
 of papers:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Cosine_similarity&quot;&gt;cosine similarities&lt;/a&gt; to the &lt;em&gt;golden standard&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Cosine_similarity&quot;&gt;cosine similarities&lt;/a&gt; to the &lt;strong&gt;golden standard&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;equal sign densities of text&lt;/li&gt;
   &lt;li&gt;equal sign densities of abstract&lt;/li&gt;
   &lt;li&gt;Dale-Chall readabilities of text&lt;/li&gt;
@@ -114,7 +114,7 @@ of papers:&lt;/p&gt;
 &lt;p&gt;The aim of this project was to train the classifier. I picked the Ada-Boosted 
 classifier. The reason was that I still had not enormously huge data set. 
 So, in this project the scalability was not an issue. The Ada-Boost is considered
-the best &lt;em&gt;out of box&lt;/em&gt; classifier. The &lt;a href=&quot;https://en.wikipedia.org/wiki/AdaBoost&quot;&gt;creators&lt;/a&gt; got  &lt;strong&gt;Gödel Prize&lt;/strong&gt; for this algorithm.&lt;/p&gt;
+the best &lt;strong&gt;out of box&lt;/strong&gt; classifier. The &lt;a href=&quot;https://en.wikipedia.org/wiki/AdaBoost&quot;&gt;creators&lt;/a&gt; got  &lt;strong&gt;Gödel Prize&lt;/strong&gt; for this algorithm.&lt;/p&gt;
 
 &lt;p&gt;Moreover I used this algorithm before in the work for the medical startup REVON.&lt;/p&gt;
 
