@@ -88,10 +88,10 @@ of papers:
 5. Dale-Chall readabilities of abstract
 6. number of lines density of text
 7. number of lines density of abstract
-8. length of the abstract
-9. length of the text
-10. pure text density of abstract
-11. pure text density of text
+8. length of the text
+9. length of the abstract
+10. pure text density of text
+11. pure text density of abstract
 
 Note, by pure text density I mean the density of cleaned up text 
 (text consisting only of factual information nouns). 
