@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6bf6fe31-38df-45cc-81b3-bc13a383b59d" name="Default" comment="markdown">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/01_about.md" afterPath="$PROJECT_DIR$/_pages/01_about.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-09-28-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_posts/2016-09-28-welcome-to-jekyll.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/welcome/index.html" afterPath="$PROJECT_DIR$/_site/welcome/index.html" />
     </list>
@@ -58,12 +60,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01_about.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="01_about.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_pages/01_about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="76">
+                <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -74,12 +76,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-09-28-welcome-to-jekyll.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-09-28-welcome-to-jekyll.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-09-28-welcome-to-jekyll.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="345">
-                <caret line="95" column="85" selection-start-line="95" selection-start-column="85" selection-end-line="95" selection-end-column="85" />
+              <first_editor relative-caret-position="601">
+                <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -152,6 +154,7 @@
       <list>
         <option value="$PROJECT_DIR$/_posts/lazy_ions_application.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-09-28-welcome-to-jekyll.markdown" />
+        <option value="$PROJECT_DIR$/_pages/01_about.md" />
       </list>
     </option>
   </component>
@@ -427,12 +430,12 @@
       <workItem from="1478393884343" duration="346000" />
       <workItem from="1478794351807" duration="490000" />
       <workItem from="1479112384131" duration="689000" />
-      <workItem from="1479137830762" duration="9249000" />
+      <workItem from="1479137830762" duration="9857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12099000" />
+    <option name="totallyTimeSpent" value="12707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="88" width="1260" height="637" extended-state="0" />
@@ -553,29 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/01_about.md">
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/02_contact.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -660,8 +640,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-09-28-welcome-to-jekyll.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="345">
-            <caret line="95" column="85" selection-start-line="95" selection-start-column="85" selection-end-line="95" selection-end-column="85" />
+          <first_editor relative-caret-position="601">
+            <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -671,6 +651,29 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/01_about.md">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="76">
+            <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">

@@ -75,7 +75,7 @@ Having downloaded the meta-data and actual pdf files from arXiv for trendsetters
 and non-trendsetters. I split the trendsetting papers to the papers belonging to 
 the top trendsetting authors (the upper five per-cent). I call that set **a golden standard**.
 I have done that to have base to which I can calculate the **[cosine similarities]** of the 
-rest of the papers to teh **golden standard**. By this I engineered the global feature for each article. Moreover for each 
+rest of the papers to the **golden standard**. By this I engineered the global feature for each article. Moreover for each 
 paper I calculated the local features (meaning related to the paper itself regardless the corpus). 
 The following summarises all features calculated for each paper. By selecting following
 features I wanted to catch the formal structure together with factual structure
@@ -124,7 +124,7 @@ For the future work I propose the following:
 3. Extend the algorithm for other media (other than arXiv)
 4. Introduce the online learning, with proper implementation of exploration vs. exploitation
 5. Personalised version
-6. Use the algorithm as trendsetting-ness estimator for authors
+6. Use the algorithm as trendsetting-nes estimator for authors
 
 
 [here]: https://glacial-basin-33701.herokuapp.com/about
