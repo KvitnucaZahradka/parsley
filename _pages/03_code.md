@@ -21,9 +21,13 @@ Various CS projects/algorithms:
 3. [Prim's algorithm with Heaps][prim]
 4. [K clustering with Lazy Unions][kclust]
 5. [Big clustering with Lazy Unions][bigclust]
+6. [Hamiltonian path checker using SAT instances in CNF (Conjunctive Normal Form)][hampath]
+7. [Lazy Ions: The Python Module for new trendsetters prediction][lazyions]
 
 [ggl]: https://github.com/KvitnucaZahradka/knuth_morris_pratt/blob/master/KnuthMorrisPratt.java "Knuth Morris Pratt algorithm"
 [ku]: https://github.com/KvitnucaZahradka/completition_times/blob/master/Completition_times.java "Completion times"
 [prim]: https://github.com/KvitnucaZahradka/prims_algorithm_heaps/blob/master/PrimsAlgorithmHeapVersion.java "Prim's algorithm"
 [kclust]: https://github.com/KvitnucaZahradka/k_clustering_with_lazy_unions "K clustering with Lazy Unions"
 [bigclust]: https://github.com/KvitnucaZahradka/big_clustering "Big clustering with Lazy Unions"
+[hampath]: https://github.com/KvitnucaZahradka/hamiltonian_path_using_SAT_instances/HamiltonianPath.java "Hamiltonian path checker using SAT instances in CNF"
+[lazyions]: https://github.com/KvitnucaZahradka/LAZY_IONS/blob/master/Document.py "Lazy Ions: The Python Module for new trendsetters prediction"
