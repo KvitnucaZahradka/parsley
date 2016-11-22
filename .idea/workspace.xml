@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bf6fe31-38df-45cc-81b3-bc13a383b59d" name="Default" comment="markdown">
+    <list default="true" id="6bf6fe31-38df-45cc-81b3-bc13a383b59d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/03_code.md" afterPath="$PROJECT_DIR$/_pages/03_code.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/code/index.html" afterPath="$PROJECT_DIR$/_site/code/index.html" />
@@ -120,8 +120,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/03_code.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="435">
-                <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+              <first_editor relative-caret-position="420">
+                <caret line="31" column="116" selection-start-line="31" selection-start-column="116" selection-end-line="31" selection-end-column="116" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -432,12 +432,20 @@
       <workItem from="1478393884343" duration="346000" />
       <workItem from="1478794351807" duration="490000" />
       <workItem from="1479112384131" duration="689000" />
-      <workItem from="1479137830762" duration="11370000" />
+      <workItem from="1479137830762" duration="11553000" />
     </task>
+    <task id="LOCAL-00001" summary="markdown">
+      <created>1479840713244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479840713244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14220000" />
+    <option name="totallyTimeSpent" value="14403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="88" width="1260" height="637" extended-state="0" />
@@ -472,6 +480,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="markdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="markdown" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -671,8 +683,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/03_code.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="435">
-            <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <first_editor relative-caret-position="420">
+            <caret line="31" column="116" selection-start-line="31" selection-start-column="116" selection-end-line="31" selection-end-column="116" />
             <folding />
           </first_editor>
           <second_editor />

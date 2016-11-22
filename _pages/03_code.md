@@ -29,5 +29,5 @@ Various CS projects/algorithms:
 [prim]: https://github.com/KvitnucaZahradka/prims_algorithm_heaps/blob/master/PrimsAlgorithmHeapVersion.java "Prim's algorithm"
 [kclust]: https://github.com/KvitnucaZahradka/k_clustering_with_lazy_unions "K clustering with Lazy Unions"
 [bigclust]: https://github.com/KvitnucaZahradka/big_clustering "Big clustering with Lazy Unions"
-[hampath]: https://github.com/KvitnucaZahradka/hamiltonian_path_using_SAT_instances/HamiltonianPath.java "Hamiltonian path checker using SAT instances in CNF"
+[hampath]: https://github.com/KvitnucaZahradka/hamiltonian_path_using_SAT_instances/blob/master/HamiltonianPath.java "Hamiltonian path checker using SAT instances in CNF"
 [lazyions]: https://github.com/KvitnucaZahradka/LAZY_IONS/blob/master/Document.py "Lazy Ions: The Python Module for new trendsetters prediction"
