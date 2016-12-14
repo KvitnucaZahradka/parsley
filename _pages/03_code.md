@@ -23,6 +23,7 @@ Various CS projects/algorithms:
 5. [Big clustering with Lazy Unions][bigclust]
 6. [Hamiltonian path checker using SAT instances in CNF (Conjunctive Normal Form)][hampath]
 7. [Lazy Ions: The Python Module for new trendsetters prediction][lazyions]
+8. [Travelling Salesman Problem: Dynamic Programming solution][TSP]
 
 [ggl]: https://github.com/KvitnucaZahradka/knuth_morris_pratt/blob/master/KnuthMorrisPratt.java "Knuth Morris Pratt algorithm"
 [ku]: https://github.com/KvitnucaZahradka/completition_times/blob/master/Completition_times.java "Completion times"
@@ -31,3 +32,4 @@ Various CS projects/algorithms:
 [bigclust]: https://github.com/KvitnucaZahradka/big_clustering "Big clustering with Lazy Unions"
 [hampath]: https://github.com/KvitnucaZahradka/hamiltonian_path_using_SAT_instances/blob/master/HamiltonianPath.java "Hamiltonian path checker using SAT instances in CNF"
 [lazyions]: https://github.com/KvitnucaZahradka/LAZY_IONS/blob/master/Document.py "Lazy Ions: The Python Module for new trendsetters prediction"
+[TSP]: https://github.com/KvitnucaZahradka/TSP/blob/master/Salesman.java "Travelling Salesman Problem via Dynamic Programming"
