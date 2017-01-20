@@ -7,7 +7,7 @@ permalink: /about/
 <img src="https://kvitnucazahradka.github.io/parsley/pictures/ja.JPG" alt="Martin Polacek" width="255px" >
 
 
-My name is Martin Polacek. I like math, physics and programming. I am currently Ph.D. student 
+My name is Martin Polacek. I like math, physics and programming. I am finishing Ph.D. degree at
 at the [YITP][yitp] institute for theoretical physics at the [Stony Brook University][sb], [Stony Brook][sbrook], NY.
 
 ### Trivia
@@ -20,6 +20,11 @@ Master Degree (MSc.) in Theoretical Physics at the [Comenius University][cmn] in
 
 You can read more about my scientific and professional interests in my [Resume][resume].
 
+### Most recent
+
+Currently, I am [Insight Data Science][ins] fellow. I am working on implementation 
+the fake-news detector. This work is highly inspired by my previous project called [Lazy Ions][LI] for scientific papers 
+early trendsetter detection.
 
 
 [zln]: https://en.wikipedia.org/wiki/Žilina "Zilina"
@@ -31,3 +36,5 @@ You can read more about my scientific and professional interests in my [Resume][
 [sb]: http://www.stonybrook.edu "Stony Brook University"
 [sbrook]: https://en.wikipedia.org/wiki/Stony_Brook,_New_York "Stony Brook"
 [resume]: https://kvitnucazahradka.github.io/parsley/pdf/Martin_Polacek_res.pdf "Martin Polacek Resume"
+[LI]: https://github.com/KvitnucaZahradka/LAZY_IONS/blob/master/Document.py "Lazy Ions: The Python Module for new trendsetters prediction"
+[ins]: http://insightdatascience.com "Insight Data Science"
