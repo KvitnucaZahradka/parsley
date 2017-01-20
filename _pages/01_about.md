@@ -36,5 +36,5 @@ early trendsetter detection.
 [sb]: http://www.stonybrook.edu "Stony Brook University"
 [sbrook]: https://en.wikipedia.org/wiki/Stony_Brook,_New_York "Stony Brook"
 [resume]: https://kvitnucazahradka.github.io/parsley/pdf/Martin_Polacek_res.pdf "Martin Polacek Resume"
-[LI]: https://github.com/KvitnucaZahradka/LAZY_IONS/blob/master/Document.py "Lazy Ions: The Python Module for new trendsetters prediction"
+[LI]: https://kvitnucazahradka.github.io/parsley/welcome/ "Lazy Ions: The Python Module for new trendsetters prediction"
 [ins]: http://insightdatascience.com "Insight Data Science"
