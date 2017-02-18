@@ -7,7 +7,7 @@ permalink: /about/
 <img src="https://kvitnucazahradka.github.io/parsley/pictures/ja.JPG" alt="Martin Polacek" width="255px" >
 
 
-My name is Martin Polacek. I like math, physics and programming. I am finishing Ph.D. degree at
+My name is Martin Polacek. I like mathematics, physics and programming. I am finishing Ph.D. degree at
 at the [YITP][yitp] institute for theoretical physics at the [Stony Brook University][sb], [Stony Brook][sbrook], NY.
 
 ### Trivia

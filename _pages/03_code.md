@@ -25,7 +25,9 @@ Various CS projects/algorithms:
 7. [Lazy Ions: The Python Module for new trendsetters prediction][lazyions]
 8. [Travelling Salesman Problem: Dynamic Programming solution][TSP]
 9. [Johnson's algorithm][JOHN]
+10. [Fake News Checker][crown]
 
+[crown]: http://www.crownlies.com
 [ggl]: https://github.com/KvitnucaZahradka/knuth_morris_pratt/blob/master/KnuthMorrisPratt.java "Knuth Morris Pratt algorithm"
 [ku]: https://github.com/KvitnucaZahradka/completition_times/blob/master/Completition_times.java "Completion times"
 [prim]: https://github.com/KvitnucaZahradka/prims_algorithm_heaps/blob/master/PrimsAlgorithmHeapVersion.java "Prim's algorithm"
