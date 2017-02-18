@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bf6fe31-38df-45cc-81b3-bc13a383b59d" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pdf/Martin_Polacek_Resume.pdf" afterPath="$PROJECT_DIR$/pdf/Martin_Polacek_res.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="parsley.iws" />
@@ -446,7 +447,7 @@
       <workItem from="1483721863123" duration="6194000" />
       <workItem from="1483729809376" duration="2401000" />
       <workItem from="1484798042556" duration="4589000" />
-      <workItem from="1487459450172" duration="1210000" />
+      <workItem from="1487459450172" duration="1312000" />
     </task>
     <task id="LOCAL-00001" summary="markdown">
       <created>1479840713244</created>
@@ -525,11 +526,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487461752707</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="markdown">
+      <created>1487461767674</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1487461767674</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35902000" />
+    <option name="totallyTimeSpent" value="36004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="84" width="1260" height="637" extended-state="0" />
